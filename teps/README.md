@@ -3,8 +3,8 @@
 | TEP  | Title  | Status   | Last Updated  |
 |------|--------|----------|---------------|
 |[TEP-0001](0001-tekton-enhancement-proposal-process.md) |~~Tekton Enhancement Proposal Process~~| Done | 2020-06-11 |
-|[TEP-0002](0002-custom-tasks.md) | Custom Tasks | Done | 2020-07-07 |
-|[TEP-0003](0003-tekton-catalog-organization.md) | Tekton Catalog Organization | Done | 2021-02-09 |
+|[TEP-0002](0002-custom-tasks.md) |~~Custom Tasks~~| Done | 2020-07-07 |
+|[TEP-0003](0003-tekton-catalog-organization.md) |~~Tekton Catalog Organization~~| Done | 2021-02-09 |
 |[TEP-0004](0004-task-results-in-final-tasks.md) | Task Results in Final Tasks | implemented | 2021-06-03 |
 |[TEP-0005](0005-tekton-oci-bundles.md) | Tekton OCI Bundles | implementable | 2020-08-13 |
 |[TEP-0006](0006-tekton-metrics.md) | Tekton Metrics | proposed | 2020-07-13 |
