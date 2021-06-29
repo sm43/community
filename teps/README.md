@@ -8,8 +8,8 @@
 |[TEP-0004](0004-task-results-in-final-tasks.md) |~~Task Results in Final Tasks~~ | Done | 2021-06-03 |
 |[TEP-0005](0005-tekton-oci-bundles.md) | ~~Tekton OCI Bundles~~ | Done | 2020-08-13 |
 |[TEP-0006](0006-tekton-metrics.md) | ~~Tekton Metrics~~ | Done | 2020-07-13 |
-|[TEP-0007](0007-conditions-beta.md) | Conditions Beta | implemented | 2021-06-03 |
-|[TEP-0008](0008-support-knative-service-for-triggers-eventlistener-pod.md) | Support Knative Service for Triggers EventListener Pod | implementable | 2020-08-25 |
+|[TEP-0007](0007-conditions-beta.md) | ~~~Conditions Beta~~ | Done | 2021-06-03 |
+|[TEP-0008](0008-support-knative-service-for-triggers-eventlistener-pod.md) | ~~Support Knative Service for Triggers EventListener Pod~~ | Done | 2020-08-25 |
 |[TEP-0009](0009-trigger-crd.md) | Trigger CRD | implementable | 2020-09-08 |
 |[TEP-0010](0010-optional-workspaces.md) | Optional Workspaces | implemented | 2020-10-15 |
 |[TEP-0011](0011-redirecting-step-output-streams.md) | redirecting-step-output-streams | implementable | 2020-11-02 |
