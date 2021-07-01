@@ -10,11 +10,11 @@
 |[TEP-0006](0006-tekton-metrics.md) | ~~Tekton Metrics~~ | Done | 2020-07-13 |
 |[TEP-0007](0007-conditions-beta.md) | ~~~Conditions Beta~~ | Done | 2021-06-03 |
 |[TEP-0008](0008-support-knative-service-for-triggers-eventlistener-pod.md) | ~~Support Knative Service for Triggers EventListener Pod~~ | Done | 2020-08-25 |
-|[TEP-0009](0009-trigger-crd.md) | ~~Trigger CRD~~ | implementable | 2020-09-08 |
-|[TEP-0010](0010-optional-workspaces.md) | ~~Optional Workspaces~~ | implemented | 2020-10-15 |
-|[TEP-0011](0011-redirecting-step-output-streams.md) | redirecting-step-output-streams | implementable | 2020-11-02 |
-|[TEP-0012](0012-api-spec.md) | API Specification | implementable | 2020-08-10 |
-|[TEP-0014](0014-step-timeout.md) | Step Timeout | implementable | 2020-09-10 |
+|[TEP-0009](0009-trigger-crd.md) | ~~Trigger CRD~~ | Done | 2020-09-08 |
+|[TEP-0010](0010-optional-workspaces.md) | ~~Optional Workspaces~~ | Done | 2020-10-15 |
+|[TEP-0011](0011-redirecting-step-output-streams.md) | ~~redirecting-step-output-streams~~~ | Done | 2020-11-02 |
+|[TEP-0012](0012-api-spec.md) | ~~API Specification~~ | Done | 2020-08-10 |
+|[TEP-0014](0014-step-timeout.md) | ~~Step Timeout~~ | Done | 2020-09-10 |
 |[TEP-0015](0015-pending-pipeline.md) | pending-pipeline-run | implemented | 2020-09-10 |
 |[TEP-0016](0016-concise-trigger-bindings.md) | Concise Embedded TriggerBindings | implemented | 2020-09-15 |
 |[TEP-0019](0019-other-arch-support.md) | Other Arch Support | proposed | 2020-09-30 |
