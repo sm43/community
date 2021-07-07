@@ -20,11 +20,11 @@
 |[TEP-0019](0019-other-arch-support.md) | ~~Other Arch Support~~ | Done | 2020-09-30 |
 |[TEP-0020](0020-s390x-support.md) | ~~s390x Support~~ | Done | 2021-06-04 |
 |[TEP-0021](0021-results-api.md) | ~~Tekton Results API~~ | Done | 2020-10-26 |
-|[TEP-0022](0022-trigger-immutable-input.md) | Triggers - Immutable Input Events | implementable | 2020-09-29 |
-|[TEP-0024](0024-embedded-trigger-templates.md) | Embedded TriggerTemplates | implemented | 2020-10-01 |
-|[TEP-0025](0025-hermekton.md) | Hermetic Builds | implementable | 2020-09-11 |
+|[TEP-0022](0022-trigger-immutable-input.md) | ~~Triggers - Immutable Input Events~~ | implementable | 2020-09-29 |
+|[TEP-0024](0024-embedded-trigger-templates.md) | ~~Embedded TriggerTemplates~~ | implemented | 2020-10-01 |
+|[TEP-0025](0025-hermekton.md) | ~~Hermetic Builds~~ | implementable | 2020-09-11 |
 |[TEP-0026](0026-interceptor-plugins.md) | interceptor-plugins | implementable | 2020-10-08 |
-|[TEP-0027](0027-https-connection-to-triggers-eventlistener.md) | HTTPS Connection to Triggers EventListener | implementable | 2020-11-01 |
+|[TEP-0027](0027-https-connection-to-triggers-eventlistener.md) | ~~HTTPS Connection to Triggers EventListener~~ | implementable | 2020-11-01 |
 |[TEP-0028](0028-task-execution-status-at-runtime.md) | task-exec-status-at-runtime | implemented | 2021-06-03 |
 |[TEP-0029](0029-step-workspaces.md) | step-and-sidecar-workspaces | implementable | 2020-10-02 |
 |[TEP-0030](0030-workspace-paths.md) | workspace-paths | proposed | 2020-10-18 |
