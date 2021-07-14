@@ -28,11 +28,11 @@
 |[TEP-0028](0028-task-execution-status-at-runtime.md) | ~~task-exec-status-at-runtime~~ | implemented | 2021-06-03 |
 |[TEP-0029](0029-step-workspaces.md) | step-and-sidecar-workspaces | implementable | 2020-10-02 |
 |[TEP-0030](0030-workspace-paths.md) | workspace-paths | proposed | 2020-10-18 |
-|[TEP-0031](0031-tekton-bundles-cli.md) | tekton-bundles-cli | implemented | 2021-03-26 |
-|[TEP-0032](0032-tekton-notifications.md) | Tekton Notifications | proposed | 2020-11-18 |
-|[TEP-0033](0033-tekton-feature-gates.md) | Tekton Feature Gates | implementable | 2021-03-23 |
+|[TEP-0031](0031-tekton-bundles-cli.md) | ~~tekton-bundles-cli~~ | implemented | 2021-03-26 |
+|[TEP-0032](0032-tekton-notifications.md) | ~~Tekton Notifications~~ | proposed | 2020-11-18 |
+|[TEP-0033](0033-tekton-feature-gates.md) | ~~Tekton Feature Gates~~ | implementable | 2021-03-23 |
 |[TEP-0035](0035-document-tekton-position-around-policy-authentication-authorization.md) | document-tekton-position-around-policy-authentication-authorization | implementable | 2020-12-09 |
-|[TEP-0036](0036-start-measuring-tekton-pipelines-performance.md) | Start Measuring Tekton Pipelines Performance | proposed | 2020-11-20 |
+|[TEP-0036](0036-start-measuring-tekton-pipelines-performance.md) | ~~Start Measuring Tekton Pipelines Performance~~ | proposed | 2020-11-20 |
 |[TEP-0037](0037-remove-gcs-fetcher.md) | Remove `gcs-fetcher` image | implementing | 2021-01-27 |
 |[TEP-0038](0038-generic-workspaces.md) | Generic Workspaces | proposed | 2020-12-11 |
 |[TEP-0039](0039-add-variable-retries-and-retrycount.md) | Add Variable `retries` and `retry-count` | proposed | 2021-01-31 |
